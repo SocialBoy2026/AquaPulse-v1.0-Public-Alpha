@@ -16,3 +16,5 @@ ience.
 • Quick Settings Tile Integration: Includes a custom Quick Settings Tile ("Log 200ml") in the Android notification panel for convenient, system-wide logging without opening the app.
 
 • Comprehensive Dashboard & Logs: Offers an elegant circular progress indicator, customizable hydration goals, and detailed daily log histories.
+
+[![Get it on Uptodown](https://img.shields.io/badge/Get%20it%20on-Uptodown-0078D7?style=for-the-badge&logo=appveyor&logoColor=white)](https://google-maps.en.uptodown.com/android)
