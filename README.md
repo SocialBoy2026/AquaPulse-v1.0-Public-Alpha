@@ -17,4 +17,4 @@ ience.
 
 • Comprehensive Dashboard & Logs: Offers an elegant circular progress indicator, customizable hydration goals, and detailed daily log histories.
 
-[![Get it on Uptodown](https://img.shields.io/badge/Get%20it%20on-Uptodown-0078D7?style=for-the-badge&logo=appveyor&logoColor=white)](https://google-maps.en.uptodown.com/android)
+[![Uptodown](https://img.shields.io/badge/Uptodown-Get%20on-0078D7?style=for-the-badge&logo=uptodown&logoColor=white)](https://google-maps.en.uptodown.com/android)
